@@ -121,7 +121,7 @@ This result is counter to the common assumption that longer contracts always red
 
 ### 2. Monthly Charges
 
-Churned customers had higher average monthly charges than retained customers, highlighting a potential relationship between pricing and churn that warrants further investigation.
+Churned customers had slightly higher average monthly charges than retained customers, but the gap is small — suggesting pricing is a weak churn signal in this dataset.
 
 ### 3. Senior Citizen Status
 
